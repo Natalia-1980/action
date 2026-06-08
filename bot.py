@@ -11,8 +11,8 @@ import aioschedule
 import pytz
 
 # ========== КОНФИГУРАЦИЯ ==========
-# !!! ВСТАВЬТЕ СВОЙ НОВЫЙ ТОКЕН СЮДА !!!
-API_TOKEN = "ВАШ_НОВЫЙ_ТОКЕН_СЮДА"
+# 8620334772:AAEZGZuXevAKCgzne-02zUCRP_tunyAjWrY !!!
+API_TOKEN = "8620334772:AAEZGZuXevAKCgzne-02zUCRP_tunyAjWrY"
 
 # Настройка часового пояса (Москва)
 TIMEZONE = pytz.timezone('Europe/Moscow')
